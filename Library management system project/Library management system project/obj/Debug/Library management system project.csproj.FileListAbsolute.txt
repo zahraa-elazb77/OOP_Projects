@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Library management system project\Library management system project\obj\Debug\Library management system project.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Library management system project\Library management system project\obj\Debug\Library management system project.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Library management system project\Library management system project\bin\Debug\Library management system project.exe.config
+C:\Users\DELL\source\repos\Library management system project\Library management system project\bin\Debug\Library management system project.exe
+C:\Users\DELL\source\repos\Library management system project\Library management system project\bin\Debug\Library management system project.pdb
+C:\Users\DELL\source\repos\Library management system project\Library management system project\obj\Debug\Library management system project.exe
+C:\Users\DELL\source\repos\Library management system project\Library management system project\obj\Debug\Library management system project.pdb
