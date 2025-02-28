@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Maze game project\Maze game project\bin\Debug\Maze game project.exe.config
+C:\Users\DELL\source\repos\Maze game project\Maze game project\bin\Debug\Maze game project.exe
+C:\Users\DELL\source\repos\Maze game project\Maze game project\bin\Debug\Maze game project.pdb
+C:\Users\DELL\source\repos\Maze game project\Maze game project\obj\Debug\Maze game project.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Maze game project\Maze game project\obj\Debug\Maze game project.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Maze game project\Maze game project\obj\Debug\Maze game project.exe
+C:\Users\DELL\source\repos\Maze game project\Maze game project\obj\Debug\Maze game project.pdb
