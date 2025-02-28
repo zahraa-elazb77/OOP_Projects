@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Text Data Analyzer Project\Text Data Analyzer Project\bin\Debug\Text Data Analyzer Project.exe.config
+C:\Users\DELL\source\repos\Text Data Analyzer Project\Text Data Analyzer Project\bin\Debug\Text Data Analyzer Project.exe
+C:\Users\DELL\source\repos\Text Data Analyzer Project\Text Data Analyzer Project\bin\Debug\Text Data Analyzer Project.pdb
+C:\Users\DELL\source\repos\Text Data Analyzer Project\Text Data Analyzer Project\obj\Debug\Text Data Analyzer Project.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Text Data Analyzer Project\Text Data Analyzer Project\obj\Debug\Text Data Analyzer Project.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Text Data Analyzer Project\Text Data Analyzer Project\obj\Debug\Text Data Analyzer Project.exe
+C:\Users\DELL\source\repos\Text Data Analyzer Project\Text Data Analyzer Project\obj\Debug\Text Data Analyzer Project.pdb
